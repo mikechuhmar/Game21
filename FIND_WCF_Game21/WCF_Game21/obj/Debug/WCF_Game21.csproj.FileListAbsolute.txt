@@ -1,0 +1,7 @@
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\bin\Debug\WCF_Game21.dll.config
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\bin\Debug\WCF_Game21.dll
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\bin\Debug\WCF_Game21.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\obj\Debug\WCF_Game21.csproj.CoreCompileInputs.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\obj\Debug\WCF_Game21.dll
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\obj\Debug\WCF_Game21.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\WCF_Game21\obj\Debug\WCF_Game21.csprojResolveAssemblyReference.cache
