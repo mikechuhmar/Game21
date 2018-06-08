@@ -1,0 +1,30 @@
+﻿<Window x:Class="GameClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="648.91" Width="778.4" Closing="Window_Closing" Loaded="Window_Loaded">
+    <Grid Margin="0,0,4,0.2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="129*"/>
+            <ColumnDefinition Width="240*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Подключиться к игре" HorizontalAlignment="Left" Margin="288.8,10,0,0" VerticalAlignment="Top" Width="200" Height="37" Name="bConnDisconn" Click="bConnDisconn_Click" Grid.Column="1"/>
+        <TextBox Height="37" Margin="10,10,242.6,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" Name="tbUserName" Grid.ColumnSpan="2"/>
+        <ListBox HorizontalAlignment="Left" Height="235" Margin="10,136,0,0" VerticalAlignment="Top" Width="513" Name="lbInfo" Grid.ColumnSpan="2"/>
+        <Button Content="Готов играть" Grid.Column="1" HorizontalAlignment="Left" Margin="288.8,438,0,0" VerticalAlignment="Top" Width="200" Click="bPrepare_Click" Height="32" Name="bPrepare"/>
+        <Button Content="Запросить ещё одну карту" Grid.Column="1" HorizontalAlignment="Left" Margin="288.8,490,0,0" VerticalAlignment="Top" Width="200" Height="48" Name="bReqCard" Click="bReqCard_Click"/>
+        <DataGrid HorizontalAlignment="Left" Height="195" Margin="10,414,0,0" VerticalAlignment="Top" Width="151" Name="dgUserCard"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="223,414,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="212" Name="lPoints" RenderTransformOrigin="0.538,2.375" Height="26"/>
+        <Button Content="Закончить набор карт" Grid.Column="1" HorizontalAlignment="Left" Margin="288.8,556,0,0" VerticalAlignment="Top" Width="200" Height="53" Name="bStopRequest" Click="bStopRequest_Click"/>
+        <Label Content="Сумма ставки: 50 монет" Grid.Column="1" HorizontalAlignment="Left" Margin="50.4,70,0,0" VerticalAlignment="Top" Name="lCoinsInfo" Height="27" Width="140"/>
+        <Label Content="Максимальное число карт у одного игрока: 6" HorizontalAlignment="Left"  Margin="4.4,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.289,0.328" Name="lUsersInfo" Grid.Column="1" Height="26" Width="262"/>
+        <Label Content="Ваши карты" HorizontalAlignment="Left" Margin="44,383,0,0" VerticalAlignment="Top" Height="26" Width="75"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="223,472,0,0" VerticalAlignment="Top" Name="lUserCoins" Grid.ColumnSpan="2" Width="212" Height="26"/>
+        <ListBox Grid.Column="1" HorizontalAlignment="Left" Height="235" Margin="288.8,136,0,0" VerticalAlignment="Top" Width="200" Name="lbPlayerList"/>
+    </Grid>
+</Window>

@@ -1,0 +1,88 @@
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\bin\Release\GameClient.exe.config
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\bin\Release\GameClient.exe
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\bin\Release\GameClient.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\MainWindow.g.cs
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\App.g.cs
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\MainWindow.baml
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.g.resources
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.exe
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameClient\obj\Release\GameClient.csprojResolveAssemblyReference.cache
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\bin\Release\GameClient.exe.config
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\bin\Release\GameClient.exe
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\bin\Release\GameClient.pdb
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\MainWindow.g.cs
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\App.g.cs
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\MainWindow.baml
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.g.resources
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.exe
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.pdb
+C:\Проекты\c#\Сети ЭВМ\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\bin\Release\GameClient.exe.config
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\bin\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\bin\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\MainWindow.g.cs
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\App.g.cs
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\MainWindow.baml
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.g.resources
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\LOC_WCF_Game21\GameClient\obj\Release\GameClient.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\bin\Release\GameClient.exe.config
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\bin\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\bin\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\MainWindow.g.cs
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\App.g.cs
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\MainWindow.baml
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.g.resources
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\SIMP_WCF_Game21\GameClient\obj\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\bin\Release\GameClient.exe.config
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\bin\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\bin\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\MainWindow.g.cs
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\App.g.cs
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\MainWindow.baml
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.g.resources
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21\GameClient\obj\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\bin\Release\GameClient.exe.config
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\bin\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\bin\Release\GameClient.pdb
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\MainWindow.g.cs
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\App.g.cs
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient_MarkupCompile.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient_MarkupCompile.lref
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\MainWindow.baml
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.g.resources
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.Properties.Resources.resources
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.exe
+C:\Users\Пользователь\Documents\21\FIND_WCF_Game21 — копия\GameClient\obj\Release\GameClient.pdb
