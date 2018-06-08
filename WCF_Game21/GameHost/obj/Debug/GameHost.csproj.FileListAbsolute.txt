@@ -1,0 +1,11 @@
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\GameHost.exe.config
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\GameHost.exe
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\GameHost.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\WCF_Game21.dll
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\WCF_Game21.pdb
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\bin\Debug\WCF_Game21.dll.config
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\obj\Debug\GameHost.csprojResolveAssemblyReference.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\obj\Debug\GameHost.csproj.CopyComplete
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\obj\Debug\GameHost.exe
+C:\Проекты\c#\Сети ЭВМ\WCF_Game21\GameHost\obj\Debug\GameHost.pdb
